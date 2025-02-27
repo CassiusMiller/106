@@ -1,0 +1,16 @@
+main{
+  display: flex;
+  height: 100vh;/*vh = vertical height*/
+}
+/*best practice to divide the page into 12 */
+#list{
+  background-color: aqua;
+  flex: 6;/*number = page divided*/
+
+}
+
+#form{
+  background-color: beige;
+  flex: 6;
+
+}
