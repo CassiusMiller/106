@@ -1,4 +1,4 @@
-class task {
+class Task {
   constructor(title, desription, color, startdate, status, budget) {
     this.title = title
     this.desription = desription
